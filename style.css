@@ -1,0 +1,88 @@
+header {
+  background-color: #5887ab;
+  height: 90px;
+}
+
+.header-logo {
+  font-size: 36px;
+  float: left;
+  padding: 15px 30px;
+}
+
+li {
+  list-style: none;
+  float: left;
+  font-size: 20px;
+  padding: 33px 20px;
+}
+
+.top-wrapper img.mone1 {
+  width: 100%;
+}
+
+.top-wrapper p {
+  position: absolute;
+  color: azure;
+
+  font-size: 70px;
+  font-family: "Sacramento", cursive;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  padding: 0px 8px;
+  margin-bottom: 100px;
+  background-color: gainsboro;
+}
+
+.contents {
+  margin-top: 100px;
+  padding: ;
+}
+
+.contents-item1 {
+  font-size: 20px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.contents-item2 {
+  font-size: 20px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.contents-item3 {
+  font-size: 20px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+h5 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+footer {
+  background-color: #d7ce53;
+  text-align: center;
+}
